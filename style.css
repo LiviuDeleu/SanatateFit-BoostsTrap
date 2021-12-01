@@ -41,6 +41,7 @@ img, svg{
 .container{
     text-align: center;
 }
+/*Button*/
 .btn-primary{
     color: white;
     background-color: rgb(230, 4, 4);
