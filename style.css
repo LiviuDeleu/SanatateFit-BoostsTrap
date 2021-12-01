@@ -30,7 +30,14 @@ img, svg{
 }
 /*Text*/
 .fw-bold{
-    margin-top: 20%;
-    font-size: 200%;
+    margin-top: 10%;
+    font-size: 500%;
     font-family: Bebas Neue;
+}
+.fw-bolder{
+    font-size: 400%;
+    font-family: Bebas Neue;
+}
+.container{
+    text-align: center;
 }
