@@ -41,3 +41,15 @@ img, svg{
 .container{
     text-align: center;
 }
+.btn-primary{
+    color: white;
+    background-color: rgb(230, 4, 4);
+    border-color:rgb(230, 4, 4);
+    font-family: Bebas Neue;
+    font-size: 200%;
+}
+.btn-primary:hover{
+    background-color: rgb(255, 1, 1);
+    color: rgb(255, 217, 0);
+    border-color:rgb(255, 217, 0) ;
+}
