@@ -6,7 +6,8 @@ body{
 }
 /*menu*/
 a{
-    font-family: Arial;
+    font-family: Bebas Neue;
+    font-size: 150%;
 }
 nav{
     background-color: rgb(61, 61, 61);
@@ -21,17 +22,15 @@ nav{
     padding: 1rem 8rem;
 }
 /*Foto*/
-.img-fluid{
+img, svg{
     margin-top: 5%;
-    width: 50%;
-    height: 50%;
+    width: 100%;
+    height: 120%;
+    margin-left: -10%;
 }
 /*Text*/
-.fs-1{
-    color: black;
-    font-weight: bold;
-}
-.fs-2{
-    color:black;
-    font-weight: bold;
+.fw-bold{
+    margin-top: 20%;
+    font-size: 200%;
+    font-family: Bebas Neue;
 }
