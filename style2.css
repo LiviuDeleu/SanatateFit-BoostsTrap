@@ -1,3 +1,6 @@
+body{
+    background-color: black;
+}
 /*menu*/
 a{
     font-family: Bebas Neue;
@@ -34,9 +37,10 @@ nav{
     color: white;
     background-color: red;
     border-color: red;
-    margin-left: -1%;
-    width: 100%;
-    margin-top: 7%;
+    margin-left: 28%;
+    width: 50%;
+    margin-top: 1%;
+    font-size: 110%;
 }
 .btn-primary:hover{
     color: rgb(0, 255, 234);
@@ -48,3 +52,4 @@ nav{
     background: red;
     border-color: rgb(0, 255, 234);
 }
+
