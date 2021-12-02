@@ -1,4 +1,4 @@
-/*body{
+body{
     overflow-y: hidden;
 }
 /*menu*/
@@ -22,4 +22,19 @@ nav{
 .containerfoto{
     margin-top: -68%;
     margin-left: 20%;
+    cursor: pointer;
+}
+/*Button*/
+.btn-primary{
+    color: white;
+    background-color: red;
+    border-color: red;
+    width: 30%;
+    margin-top: -35%;
+    margin-left: 35%;
+}
+.btn-primary:hover{
+    border-color: yellow;
+    color: yellow;
+    background-color: red;
 }
