@@ -15,4 +15,18 @@ body{
 .fs-1{
     font-family: Bebas Neue;
     color: white;
+    text-decoration: none;
+}
+.g-3{
+    font-family: Bebas Neue;
+    font-size: 150% ;
+}
+.btn-primary{
+    color: white;
+    background-color: black;
+    border-color: white;
+}
+.btn-primary:hover{
+    background-color: red;
+    border-color: yellow;
 }
