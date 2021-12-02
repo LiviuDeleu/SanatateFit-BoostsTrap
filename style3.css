@@ -1,0 +1,17 @@
+/*menu*/
+a{
+    font-family: Bebas Neue;
+    font-size: 150%;
+}
+nav{
+    background-color: rgb(61, 61, 61);
+    padding-left: 20%;
+
+}
+.nav-link:hover{
+    color: red;
+}
+.nav-link{
+    color: white;
+    padding: 1rem 8rem;
+}
