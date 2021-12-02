@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    overflow-y: hidden;
 }
 /*menu*/
 a{
@@ -27,29 +28,38 @@ nav{
     margin-top: 5%;
 }
 .container{
-    margin-top: -40%;
+    margin-top: -50%;
 }
 #youtube{
     background-color: red;
     color: white;
     font-family: Bebas Neue;
     font-size: 130%;
+    cursor: pointer;
 }
 #google{
     background-color: white;
     color: blue;
     font-family: Bebas Neue;
     font-size: 130%;
+    cursor: pointer;
 }
 #instagram{
     background-color: crimson;
     color: white;
     font-family: Bebas Neue;
     font-size: 130%;
+    cursor: pointer;
 }
 #viber{
     background-color: darkmagenta;
     color: white;
     font-family: Bebas Neue;
     font-size: 130%;
+    cursor: pointer;
+}
+/*-----text-----*/
+.bg-light{
+    color: rgb(0, 0, 0);
+    margin-top: 190%;
 }
