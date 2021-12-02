@@ -1,3 +1,6 @@
+/*body{
+    overflow-y: hidden;
+}
 /*menu*/
 a{
     font-family: Bebas Neue;
@@ -14,4 +17,10 @@ nav{
 .nav-link{
     color: white;
     padding: 1rem 8rem;
+}
+/*----foto content----*/
+.containerfoto{
+    margin-top: -68%;
+    margin-left: 20%;
+
 }
