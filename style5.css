@@ -1,11 +1,14 @@
 body{
     background-color: rgb(92, 91, 99);
 }
+a{
+    text-decoration: none;
+}
 .btn-dark{
     width: 60%;
     height: 30%;
- font-size: 150%;
- font-family: Bebas Neue ;
+    font-size: 150%;
+    font-family: Bebas Neue ;
 }
 
 .container{
@@ -25,6 +28,7 @@ body{
     color: white;
     background-color: black;
     border-color: white;
+    font-size: 100%;
 }
 .btn-primary:hover{
     background-color: red;
