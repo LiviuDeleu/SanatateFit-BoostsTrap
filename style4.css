@@ -1,6 +1,7 @@
 body{
     background-color: black;
     overflow-y: hidden;
+    overflow-x: hidden;
 }
 /*menu*/
 a{
@@ -58,8 +59,8 @@ nav{
     font-size: 130%;
     cursor: pointer;
 }
-/*-----text-----*/
-.bg-light{
-    color: rgb(0, 0, 0);
-    margin-top: 190%;
+/*-----map-----*/
+#map{
+    margin-left: 27%;
+    margin-top: 2%;
 }
