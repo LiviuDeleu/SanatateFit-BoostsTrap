@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    overflow-x:hidden
 }
 /*menu*/
 a{
@@ -26,7 +27,7 @@ nav{
     color: white;
     font-family: Bebas Neue;
     font-size: 400%;
-    margin-top: -265%;
+    margin-top: -90%;
     cursor: pointer;
 }
 .text-uppercase:hover{
@@ -41,6 +42,7 @@ nav{
     width: 50%;
     margin-top: 1%;
     font-size: 110%;
+    position: sticky;
 }
 .btn-primary:hover{
     color: rgb(0, 255, 234);
