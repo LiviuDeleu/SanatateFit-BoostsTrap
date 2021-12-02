@@ -48,6 +48,7 @@ img, svg{
     border-color:rgb(230, 4, 4);
     font-family: Bebas Neue;
     font-size: 200%;
+    width: 100%;
 }
 .btn-primary:hover{
     background-color: rgb(255, 1, 1);
