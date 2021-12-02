@@ -1,3 +1,6 @@
+body{
+    background-color: black;
+}
 /*menu*/
 a{
     font-family: Bebas Neue;
@@ -14,4 +17,39 @@ nav{
 .nav-link{
     color: white;
     padding: 1rem 8rem;
+}
+/*----------butoane----*/
+.btn-danger{
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+    width: 85%;
+    margin-top: 5%;
+}
+.container{
+    margin-top: -40%;
+}
+#youtube{
+    background-color: red;
+    color: white;
+    font-family: Bebas Neue;
+    font-size: 130%;
+}
+#google{
+    background-color: white;
+    color: blue;
+    font-family: Bebas Neue;
+    font-size: 130%;
+}
+#instagram{
+    background-color: crimson;
+    color: white;
+    font-family: Bebas Neue;
+    font-size: 130%;
+}
+#viber{
+    background-color: darkmagenta;
+    color: white;
+    font-family: Bebas Neue;
+    font-size: 130%;
 }
