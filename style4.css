@@ -58,6 +58,7 @@ nav{
     font-family: Bebas Neue;
     font-size: 130%;
     cursor: pointer;
+    target="_self"
 }
 /*-----map-----*/
 #map{
